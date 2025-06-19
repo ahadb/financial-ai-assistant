@@ -51,7 +51,7 @@ export default function Heading() {
       <div className="mt-4 md:flex md:items-center md:justify-between">
         <div className="flex items-center space-x-4">
           <img
-            src="/src/assets/joe-stein.png"
+            src="joe-stein.png"
             alt="User Avatar"
             className="h-16 w-16 rounded-full shadow-sm border"
           />

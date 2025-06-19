@@ -206,7 +206,7 @@ function App() {
                 <span className="flex min-w-0 items-center gap-3">
                   <img
                     alt=""
-                    src="/src/assets/joe-stein.png"
+                    src="joe-stein.png"
                     className="inline-block size-8   rounded-full"
                   />
                   <span className="min-w-0">
